@@ -3,7 +3,15 @@
 ![Lolland Realtor Logo](placeholder-for-lolland-realtor-logo.png)
 
 ## Project Information
-![image](https://github.com/user-attachments/assets/cd5e77a9-8cdf-4e8b-84bb-790d78251fee)
+| Detail | Value |
+|--------|-------|
+| **Project Name** | Lolland Realtor Website |
+| **Student Name** | Mikkel Looft |
+| **Class Number** | WU11 |
+| **GitHub Repository** | [https://github.com/MikkelLooft/lolland-realtor](https://github.com/MikkelLooft/lolland-realtor) |
+| **Netlify URL** | [https://lolland-realtor.netlify.app](https://lolland-realtor.netlify.app) |
+| **Username** | Mikkell@mail.dk |
+| **Password** | 123456 |
 
 ## Table of Contents
 
