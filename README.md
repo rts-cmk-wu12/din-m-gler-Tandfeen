@@ -13,6 +13,7 @@
 | **Netlify URL** | [https://lolland-realtor.netlify.app](https://lolland-realtor.netlify.app) |
 | **Username** | Mikkell@mail.dk |
 | **Password** | 123456 |
+![image](https://github.com/user-attachments/assets/cd5e77a9-8cdf-4e8b-84bb-790d78251fee)
 
 ## Table of Contents
 
